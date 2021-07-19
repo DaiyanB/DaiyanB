@@ -1,6 +1,6 @@
 I’m @DaiyanB
 
-I’m interested in astronomy/astrophysics and programming
+I like space (a lot) and programming (also a lot).
 
 I’m currently learning Python (and I've made a start on JavaScript)
 
